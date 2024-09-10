@@ -9,7 +9,7 @@ link: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.3.0/
 # Step - 3: Run xampp Server open phpMyAdmin in Browser.
 # Step - 4: Create A Database name 'managment_db' and Import The Database. 'managment_db.sql'
 
-# Step - 5: Create A folder Name : 'inventroy_management'
+# Step - 5: Create A folder Name : 'inventroy_management' and exterct The Zip file 'inventory_management_software_tareq.zip'
 
 # Step - 6 : Open Chrome Browser Copy this URL link: 'http://localhost/inventroy_management/' and paste it.
 
